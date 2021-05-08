@@ -24,8 +24,7 @@ function Review() {
     return number;
   };
 
-  const nextShirt = (e) => {
-    // console.log(e.target);
+  const nextShirt = () => {
     setIndex((index) => {
       let newIndex = index + 1;
       return checkIndex(newIndex);
@@ -34,7 +33,7 @@ function Review() {
 
   const prevShirt = () => {
     setIndex((index) => {
-      let newIndex = index + 1;
+      let newIndex = index - 1;
       return checkIndex(newIndex);
     });
   };
