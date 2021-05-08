@@ -4,4 +4,4 @@
 
 ![This is a alt text.](/Images/SS-wiwa_review.png "This is a sample image.")
 
-For live preview this project [Here](http://wiwa-nextprevproject.netlify.app/)
+For live preview this project [Here](https://wiwa-nextprev-projectapp.netlify.app/)
